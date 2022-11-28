@@ -15,10 +15,10 @@
 <div align="center">
 
 <a href="https://github.com/LuxshanPuvanendrarajah/github-readme-stats">
-  <img align="center" height="150"src="https://github-readme-stats.vercel.app/api?username=LuxshanPuvanendrarajah&theme=swift&show_icons=true" />
+  <img align="center" height="150"src="https://vercel-repo-puce.vercel.app/api?username=LuxshanPuvanendrarajah&theme=swift&show_icons=true" />
 </a>
 <a href="https://github.com/LuxshanPuvanendrarajah/convoychat">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxshanPuvanendrarajah&langs_count=8&layout=compact&theme=swift&show_icons=true" />
+  <img align="center" height="150" src="https://vercel-repo-puce.vercel.app/api/top-langs/?username=LuxshanPuvanendrarajah&langs_count=8&layout=compact&theme=swift&show_icons=true" />
 </a>
 </div>
 
