@@ -3,7 +3,7 @@
 <br>
 
 
-- My name is Luxshan Puvanendrarajah and im a junior Full Stack Developer! Currently working for QA.
+- My name is Luxshan Puvanendrarajah and im a junior Full Stack Developer! 
 - Currently based in London.
 - I'm looking to join projects that challenge my current knowledge to become a more proficient developer.
 
